@@ -34,7 +34,7 @@ The project demonstrates the complete data analytics workflow—from data prepro
 ---
 
 ## 📂 Dataset Information
-
+ Dataset link: https://www.kaggle.com/datasets/tanishqpratap/e-commerce-orders-dataset?select=ecommerce_orders_10k_updated.csv
 - Dataset: E-Commerce Orders Dataset
 - Total Records: **10,001**
 - Features:
