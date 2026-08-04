@@ -52,6 +52,8 @@ The project demonstrates the complete data analytics workflow—from data prepro
 | country |
 | customer_segment |
 
+Added columns from order_date column -- Year, Month_name, Month_number, Day_of_week, Hour
+
 ---
 
 # 📋 Data Cleaning (Excel)
